@@ -154,8 +154,7 @@ async def update_inventory(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main() -> None:
     """Start the bot."""
-    # Replace 'YOUR_TOKEN_HERE' with your actual bot token
-    app = ApplicationBuilder().token("8297051995:AAFr1Gnly_F1g5U3olc9zMALs8Vqr3xDV_g").build()
+    app = ApplicationBuilder().token("TOKEN").build()
 
     # Add command handlers
     conv_handler = ConversationHandler(
@@ -185,3 +184,4 @@ def main() -> None:
 # -------------------------
 if __name__ == "__main__":
     main()
+
