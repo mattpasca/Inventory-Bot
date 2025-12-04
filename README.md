@@ -1,7 +1,7 @@
 **--- Inventory Bot ---**
 
 This telegram bot was coded for the owners of a plant nursery in Pistoia.
-It's aim is to reduce the waste of time while answering to price requests of customers. In a quote request there are often some articles
+Its aim is to reduce the waste of time while answering to price requests of customers. In a quote request there are often some articles
 that are not available in the nursery and that can be easily found in nearby nurseries. It is common practice to call the colleagues to ask for 
 availability and price of the missing plants. This consumes time and can be highly inefficient. In order to achieve a faster response time,
 the owners of the nursery go to every colleague before the beginning of the high season to make a broad assessment of the stock of the colleagues. This way, they
