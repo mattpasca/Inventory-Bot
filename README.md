@@ -12,24 +12,24 @@ The data of each article can be inserted via text or voice messages.
 Commands
 /start
 Gives a general overview of the bot and some hints about the usage.
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/ea9751f1-7cf7-4602-ab40-5adf8cbe0f4e" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ea9751f1-7cf7-4602-ab40-5adf8cbe0f4e" />
 
 /c <colleague_name>
 The location of the stock (identified with the name of the colleague) is set globally at the beginning of a session.
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/ad5c1413-9e5a-458c-bad3-565eb1316ba6" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ad5c1413-9e5a-458c-bad3-565eb1316ba6" />
 
 /n <plant_name>
 It is important to guarantee a maximal level of standardization in all the entries, especially when it comes to the names of the plants. The user can only
 select names from a pre existing list. The user input is used to fetch a list of names matched with fuzzy match.
 After this command a list of matching plant names is displayed.
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/e111564f-7516-4464-931b-7c01ec61d50d" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e111564f-7516-4464-931b-7c01ec61d50d" />
 
 
 Conversation flow
 (Set colleague name -> ) Search plant -> Insert details (text or voice) -> save / cancel / modify
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/475c3b7d-5c24-405b-87bd-be5d336c785f" />
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/2b04be24-4f76-40aa-9b07-3683c92b573b" />
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/89978f84-5a8d-44ba-a69e-617acb070fb3" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/475c3b7d-5c24-405b-87bd-be5d336c785f" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2b04be24-4f76-40aa-9b07-3683c92b573b" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/89978f84-5a8d-44ba-a69e-617acb070fb3" />
 
 
 The collected data is saved locally on the server machine in a .json that can be easily converted to an Excel table for internal use.
