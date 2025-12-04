@@ -12,7 +12,7 @@ The data of each article can be inserted via text or voice messages.
 Commands
 /start
 Gives a general overview of the bot and some hints about the usage.
-<img width="921" height="2048" alt="image" src="https://github.com/user-attachments/assets/ea9751f1-7cf7-4602-ab40-5adf8cbe0f4e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ea9751f1-7cf7-4602-ab40-5adf8cbe0f4e" />
 
 /c <colleague_name>
 The location of the stock (identified with the name of the colleague) is set globally at the beginning of a session.
