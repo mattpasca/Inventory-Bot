@@ -23,6 +23,7 @@ The location of the stock (identified with the name of the colleague) is set glo
 **/n <plant_name>**
 It is important to guarantee a maximal level of standardization in all the entries, especially when it comes to the names of the plants.
 > The user can only select names from a pre existing list.
+
 The input is used to fetch a list of names matched with fuzzy match.
 After this command a list of matching plant names is displayed.
 
